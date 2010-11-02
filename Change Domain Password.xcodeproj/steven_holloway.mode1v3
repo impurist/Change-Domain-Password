@@ -216,7 +216,7 @@
 						<key>_historyCapacity</key>
 						<integer>0</integer>
 						<key>bookmark</key>
-						<string>6C94E412127FA542004FDAA3</string>
+						<string>6C94E422127FA897004FDAA3</string>
 						<key>history</key>
 						<array>
 							<string>6C94E3B9127F9E58004FDAA3</string>
@@ -236,6 +236,47 @@
 				<false/>
 				<key>RubberWindowFrame</key>
 				<string>239 56 1120 822 0 0 1440 878 </string>
+			</dict>
+		</dict>
+		<dict>
+			<key>Content</key>
+			<dict>
+				<key>PBXProjectModuleGUID</key>
+				<string>6C94E423127FA897004FDAA3</string>
+				<key>PBXProjectModuleLabel</key>
+				<string>TaskWrapper.h</string>
+				<key>PBXSplitModuleInNavigatorKey</key>
+				<dict>
+					<key>Split0</key>
+					<dict>
+						<key>PBXProjectModuleGUID</key>
+						<string>6C94E424127FA897004FDAA3</string>
+						<key>PBXProjectModuleLabel</key>
+						<string>TaskWrapper.h</string>
+						<key>_historyCapacity</key>
+						<integer>0</integer>
+						<key>bookmark</key>
+						<string>6C94E427127FA897004FDAA3</string>
+						<key>history</key>
+						<array>
+							<string>6C94E425127FA897004FDAA3</string>
+							<string>6C94E426127FA897004FDAA3</string>
+						</array>
+					</dict>
+					<key>SplitCount</key>
+					<string>1</string>
+				</dict>
+				<key>StatusBarVisibility</key>
+				<true/>
+			</dict>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 20}, {1120, 781}}</string>
+				<key>PBXModuleWindowStatusBarHidden2</key>
+				<false/>
+				<key>RubberWindowFrame</key>
+				<string>15 56 1120 822 0 0 1440 878 </string>
 			</dict>
 		</dict>
 	</array>
@@ -312,8 +353,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>10</integer>
-									<integer>7</integer>
+									<integer>12</integer>
+									<integer>9</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -363,7 +404,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>6C94E411127FA542004FDAA3</string>
+										<string>6C94E421127FA897004FDAA3</string>
 										<key>history</key>
 										<array>
 											<string>6C94E31A127ED939004FDAA3</string>
@@ -501,7 +542,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>5</integer>
+									<integer>2</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -580,13 +621,13 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>6C94E413127FA542004FDAA3</string>
 		<string>6C94E340127EDAF0004FDAA3</string>
 		<string>6C94E341127EDAF0004FDAA3</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>6C94E2EE127ED30A004FDAA3</string>
-		<string>/Users/steven_holloway/innov2010/Change Domain Password/Change Domain Password.xcodeproj</string>
 		<string>1C78EAAD065D492600B07095</string>
+		<string>/Users/steven_holloway/innov2010/Change Domain Password/Change Domain Password.xcodeproj</string>
+		<string>6C94E423127FA897004FDAA3</string>
 		<string>6C94E3BC127F9E5A004FDAA3</string>
 	</array>
 	<key>WindowString</key>
