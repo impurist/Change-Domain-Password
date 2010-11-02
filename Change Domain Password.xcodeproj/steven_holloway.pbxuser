@@ -1,0 +1,826 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* Change_Domain_PasswordAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 438}}";
+			sepNavSelRange = "{301, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* Change_Domain_PasswordAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 750}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 427}";
+			sepNavWindowFrame = "{{463, 0}, {1227, 878}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6C94E2DD127ED2FA004FDAA3 /* Change Domain Password */;
+		activeTarget = 8D1107260486CEB800E47090 /* Change Domain Password */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* Change Domain Password */,
+		);
+		breakpoints = (
+			6C94E32D127EDAE7004FDAA3 /* ChangePasswordController.m:77 */,
+		);
+		codeSenseManager = 6C94E2FB127ED30A004FDAA3 /* Code sense */;
+		executables = (
+			6C94E2DD127ED2FA004FDAA3 /* Change Domain Password */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					348,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					765,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310303060;
+			PBXWorkspaceStateSaveDate = 310303060;
+		};
+		perUserProjectItems = {
+			6C94E31A127ED939004FDAA3 = 6C94E31A127ED939004FDAA3 /* PBXTextBookmark */;
+			6C94E31B127ED939004FDAA3 = 6C94E31B127ED939004FDAA3 /* PBXTextBookmark */;
+			6C94E31C127ED939004FDAA3 = 6C94E31C127ED939004FDAA3 /* PBXTextBookmark */;
+			6C94E31D127ED939004FDAA3 = 6C94E31D127ED939004FDAA3 /* PBXTextBookmark */;
+			6C94E31E127ED939004FDAA3 = 6C94E31E127ED939004FDAA3 /* PBXTextBookmark */;
+			6C94E326127ED95F004FDAA3 /* PBXTextBookmark */ = 6C94E326127ED95F004FDAA3 /* PBXTextBookmark */;
+			6C94E331127EDAF0004FDAA3 /* PBXTextBookmark */ = 6C94E331127EDAF0004FDAA3 /* PBXTextBookmark */;
+			6C94E332127EDAF0004FDAA3 /* PBXTextBookmark */ = 6C94E332127EDAF0004FDAA3 /* PBXTextBookmark */;
+			6C94E333127EDAF0004FDAA3 /* PBXTextBookmark */ = 6C94E333127EDAF0004FDAA3 /* PBXTextBookmark */;
+			6C94E336127EDAF0004FDAA3 /* PBXTextBookmark */ = 6C94E336127EDAF0004FDAA3 /* PBXTextBookmark */;
+			6C94E337127EDAF0004FDAA3 /* PBXTextBookmark */ = 6C94E337127EDAF0004FDAA3 /* PBXTextBookmark */;
+			6C94E345127EDB14004FDAA3 /* PBXTextBookmark */ = 6C94E345127EDB14004FDAA3 /* PBXTextBookmark */;
+			6C94E346127EDB14004FDAA3 /* PBXTextBookmark */ = 6C94E346127EDB14004FDAA3 /* PBXTextBookmark */;
+			6C94E34B127EDB63004FDAA3 /* PBXTextBookmark */ = 6C94E34B127EDB63004FDAA3 /* PBXTextBookmark */;
+			6C94E34C127EDB63004FDAA3 /* PBXTextBookmark */ = 6C94E34C127EDB63004FDAA3 /* PBXTextBookmark */;
+			6C94E355127EDC0F004FDAA3 /* PBXTextBookmark */ = 6C94E355127EDC0F004FDAA3 /* PBXTextBookmark */;
+			6C94E356127EDC0F004FDAA3 /* PBXTextBookmark */ = 6C94E356127EDC0F004FDAA3 /* PBXTextBookmark */;
+			6C94E357127EDC0F004FDAA3 /* PBXTextBookmark */ = 6C94E357127EDC0F004FDAA3 /* PBXTextBookmark */;
+			6C94E35A127EDC39004FDAA3 /* PBXTextBookmark */ = 6C94E35A127EDC39004FDAA3 /* PBXTextBookmark */;
+			6C94E35F127EDC7A004FDAA3 /* PBXTextBookmark */ = 6C94E35F127EDC7A004FDAA3 /* PBXTextBookmark */;
+			6C94E360127EDC7A004FDAA3 /* PBXTextBookmark */ = 6C94E360127EDC7A004FDAA3 /* PBXTextBookmark */;
+			6C94E361127EDC7A004FDAA3 /* PBXTextBookmark */ = 6C94E361127EDC7A004FDAA3 /* PBXTextBookmark */;
+			6C94E364127EDC97004FDAA3 /* PBXTextBookmark */ = 6C94E364127EDC97004FDAA3 /* PBXTextBookmark */;
+			6C94E368127EDCD7004FDAA3 /* PBXTextBookmark */ = 6C94E368127EDCD7004FDAA3 /* PBXTextBookmark */;
+			6C94E369127EDCD7004FDAA3 /* PBXTextBookmark */ = 6C94E369127EDCD7004FDAA3 /* PBXTextBookmark */;
+			6C94E36E127EDD08004FDAA3 /* PBXTextBookmark */ = 6C94E36E127EDD08004FDAA3 /* PBXTextBookmark */;
+			6C94E374127EDD26004FDAA3 /* PBXTextBookmark */ = 6C94E374127EDD26004FDAA3 /* PBXTextBookmark */;
+			6C94E375127EDD26004FDAA3 /* PBXTextBookmark */ = 6C94E375127EDD26004FDAA3 /* PBXTextBookmark */;
+			6C94E379127F95A5004FDAA3 /* PBXTextBookmark */ = 6C94E379127F95A5004FDAA3 /* PBXTextBookmark */;
+			6C94E37F127F96F0004FDAA3 /* PBXTextBookmark */ = 6C94E37F127F96F0004FDAA3 /* PBXTextBookmark */;
+			6C94E380127F96F0004FDAA3 /* PBXTextBookmark */ = 6C94E380127F96F0004FDAA3 /* PBXTextBookmark */;
+			6C94E381127F96F0004FDAA3 /* PBXTextBookmark */ = 6C94E381127F96F0004FDAA3 /* PBXTextBookmark */;
+			6C94E385127F977B004FDAA3 /* PBXTextBookmark */ = 6C94E385127F977B004FDAA3 /* PBXTextBookmark */;
+			6C94E399127F98D1004FDAA3 /* PBXTextBookmark */ = 6C94E399127F98D1004FDAA3 /* PBXTextBookmark */;
+			6C94E39A127F98D1004FDAA3 /* XCBuildMessageTextBookmark */ = 6C94E39A127F98D1004FDAA3 /* XCBuildMessageTextBookmark */;
+			6C94E39B127F98D1004FDAA3 /* PBXTextBookmark */ = 6C94E39B127F98D1004FDAA3 /* PBXTextBookmark */;
+			6C94E3A1127F9912004FDAA3 /* PBXTextBookmark */ = 6C94E3A1127F9912004FDAA3 /* PBXTextBookmark */;
+			6C94E3A4127F991A004FDAA3 /* PBXTextBookmark */ = 6C94E3A4127F991A004FDAA3 /* PBXTextBookmark */;
+			6C94E3A6127F99EC004FDAA3 /* XCBuildMessageTextBookmark */ = 6C94E3A6127F99EC004FDAA3 /* XCBuildMessageTextBookmark */;
+			6C94E3A7127F99EC004FDAA3 /* PBXTextBookmark */ = 6C94E3A7127F99EC004FDAA3 /* PBXTextBookmark */;
+			6C94E3A9127F9BC6004FDAA3 /* PBXTextBookmark */ = 6C94E3A9127F9BC6004FDAA3 /* PBXTextBookmark */;
+			6C94E3AA127F9BC6004FDAA3 /* PBXTextBookmark */ = 6C94E3AA127F9BC6004FDAA3 /* PBXTextBookmark */;
+			6C94E3AB127F9BC6004FDAA3 /* PBXTextBookmark */ = 6C94E3AB127F9BC6004FDAA3 /* PBXTextBookmark */;
+			6C94E3AE127F9CBD004FDAA3 /* PBXTextBookmark */ = 6C94E3AE127F9CBD004FDAA3 /* PBXTextBookmark */;
+			6C94E3B2127F9D1F004FDAA3 /* PBXTextBookmark */ = 6C94E3B2127F9D1F004FDAA3 /* PBXTextBookmark */;
+			6C94E3B6127F9E52004FDAA3 /* PBXTextBookmark */ = 6C94E3B6127F9E52004FDAA3 /* PBXTextBookmark */;
+			6C94E3B9127F9E58004FDAA3 /* PBXBookmark */ = 6C94E3B9127F9E58004FDAA3 /* PBXBookmark */;
+			6C94E3BA127F9E5A004FDAA3 /* PBXTextBookmark */ = 6C94E3BA127F9E5A004FDAA3 /* PBXTextBookmark */;
+			6C94E3BE127F9E5A004FDAA3 /* PBXTextBookmark */ = 6C94E3BE127F9E5A004FDAA3 /* PBXTextBookmark */;
+			6C94E3C5127F9F00004FDAA3 /* PBXTextBookmark */ = 6C94E3C5127F9F00004FDAA3 /* PBXTextBookmark */;
+			6C94E3C6127F9F00004FDAA3 /* PBXTextBookmark */ = 6C94E3C6127F9F00004FDAA3 /* PBXTextBookmark */;
+			6C94E3CC127F9FCE004FDAA3 /* PBXTextBookmark */ = 6C94E3CC127F9FCE004FDAA3 /* PBXTextBookmark */;
+			6C94E3CD127F9FCE004FDAA3 /* PBXTextBookmark */ = 6C94E3CD127F9FCE004FDAA3 /* PBXTextBookmark */;
+			6C94E3D1127FA0F6004FDAA3 /* PBXTextBookmark */ = 6C94E3D1127FA0F6004FDAA3 /* PBXTextBookmark */;
+			6C94E3D2127FA0F6004FDAA3 /* PBXTextBookmark */ = 6C94E3D2127FA0F6004FDAA3 /* PBXTextBookmark */;
+			6C94E3D4127FA116004FDAA3 /* PBXTextBookmark */ = 6C94E3D4127FA116004FDAA3 /* PBXTextBookmark */;
+			6C94E3D5127FA116004FDAA3 /* PBXTextBookmark */ = 6C94E3D5127FA116004FDAA3 /* PBXTextBookmark */;
+			6C94E3E2127FA213004FDAA3 /* PBXTextBookmark */ = 6C94E3E2127FA213004FDAA3 /* PBXTextBookmark */;
+			6C94E3E3127FA213004FDAA3 /* PBXTextBookmark */ = 6C94E3E3127FA213004FDAA3 /* PBXTextBookmark */;
+			6C94E411127FA542004FDAA3 /* PBXTextBookmark */ = 6C94E411127FA542004FDAA3 /* PBXTextBookmark */;
+			6C94E412127FA542004FDAA3 /* PBXTextBookmark */ = 6C94E412127FA542004FDAA3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6C94E2FA127ED30A004FDAA3 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6C94E2DD127ED2FA004FDAA3 /* Change Domain Password */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Change Domain Password";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	6C94E2FA127ED30A004FDAA3 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6C94E2FB127ED30A004FDAA3 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 496}}";
+			sepNavSelRange = "{757, 0}";
+			sepNavVisRange = "{3, 884}";
+		};
+	};
+	6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1061, 1296}}";
+			sepNavSelRange = "{2031, 0}";
+			sepNavVisRange = "{864, 1242}";
+			sepNavWindowFrame = "{{15, 0}, {1227, 878}}";
+		};
+	};
+	6C94E31A127ED939004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* Change_Domain_PasswordAppDelegate.h */;
+		name = "Change_Domain_PasswordAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 301;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	6C94E31B127ED939004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* Change_Domain_PasswordAppDelegate.m */;
+		name = "Change_Domain_PasswordAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 427;
+		rType = 0;
+		vrLen = 427;
+		vrLoc = 0;
+	};
+	6C94E31C127ED939004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 25";
+		rLen = 38;
+		rLoc = 842;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 0;
+	};
+	6C94E31D127ED939004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 1";
+		rLen = 37;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 555;
+		vrLoc = 0;
+	};
+	6C94E31E127ED939004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 1";
+		rLen = 37;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 555;
+		vrLoc = 0;
+	};
+	6C94E326127ED95F004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 3";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 555;
+		vrLoc = 0;
+	};
+	6C94E32D127EDAE7004FDAA3 /* ChangePasswordController.m:77 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		functionName = "-changePassword:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 77;
+		location = "Change Domain Password";
+		modificationTime = 310353207.863755;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	6C94E331127EDAF0004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 24";
+		rLen = 0;
+		rLoc = 841;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+	6C94E332127EDAF0004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 3";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 555;
+		vrLoc = 0;
+	};
+	6C94E333127EDAF0004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 3";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 566;
+		vrLoc = 0;
+	};
+	6C94E336127EDAF0004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 27";
+		rLen = 0;
+		rLoc = 1251;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	6C94E337127EDAF0004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 27";
+		rLen = 0;
+		rLoc = 1251;
+		rType = 0;
+		vrLen = 571;
+		vrLoc = 0;
+	};
+	6C94E345127EDB14004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 3";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 549;
+		vrLoc = 0;
+	};
+	6C94E346127EDB14004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 27";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	6C94E34B127EDB63004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 3";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 549;
+		vrLoc = 0;
+	};
+	6C94E34C127EDB63004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 27";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	6C94E355127EDC0F004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 24";
+		rLen = 0;
+		rLoc = 841;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 0;
+	};
+	6C94E356127EDC0F004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 21";
+		rLen = 0;
+		rLoc = 1173;
+		rType = 0;
+		vrLen = 554;
+		vrLoc = 0;
+	};
+	6C94E357127EDC0F004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 16";
+		rLen = 0;
+		rLoc = 771;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 205;
+	};
+	6C94E35A127EDC39004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 16";
+		rLen = 0;
+		rLoc = 771;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 205;
+	};
+	6C94E35F127EDC7A004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 17";
+		rLen = 0;
+		rLoc = 357;
+		rType = 0;
+		vrLen = 458;
+		vrLoc = 0;
+	};
+	6C94E360127EDC7A004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 23";
+		rLen = 0;
+		rLoc = 1172;
+		rType = 0;
+		vrLen = 388;
+		vrLoc = 107;
+	};
+	6C94E361127EDC7A004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 24";
+		rLen = 0;
+		rLoc = 1173;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 64;
+	};
+	6C94E364127EDC97004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 24";
+		rLen = 0;
+		rLoc = 1173;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 64;
+	};
+	6C94E368127EDCD7004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 21";
+		rLen = 0;
+		rLoc = 909;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 64;
+	};
+	6C94E369127EDCD7004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 23";
+		rLen = 0;
+		rLoc = 645;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	6C94E36E127EDD08004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 23";
+		rLen = 0;
+		rLoc = 645;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	6C94E374127EDD26004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 23";
+		rLen = 0;
+		rLoc = 645;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	6C94E375127EDD26004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 31";
+		rLen = 0;
+		rLoc = 1173;
+		rType = 0;
+		vrLen = 555;
+		vrLoc = 107;
+	};
+	6C94E379127F95A5004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 34";
+		rLen = 0;
+		rLoc = 1210;
+		rType = 0;
+		vrLen = 525;
+		vrLoc = 205;
+	};
+	6C94E37F127F96F0004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 15";
+		rLen = 0;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 688;
+		vrLoc = 0;
+	};
+	6C94E380127F96F0004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 37";
+		rLen = 0;
+		rLoc = 1251;
+		rType = 0;
+		vrLen = 491;
+		vrLoc = 246;
+	};
+	6C94E381127F96F0004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 38";
+		rLen = 0;
+		rLoc = 2099;
+		rType = 0;
+		vrLen = 547;
+		vrLoc = 205;
+	};
+	6C94E385127F977B004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 37";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 205;
+	};
+	6C94E399127F98D1004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 12";
+		rLen = 0;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 792;
+		vrLoc = 0;
+	};
+	6C94E39A127F98D1004FDAA3 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Control reaches end of non-void function";
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 26;
+		rType = 1;
+	};
+	6C94E39B127F98D1004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 25";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	6C94E3A1127F9912004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 25";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	6C94E3A4127F991A004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 25";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 0;
+	};
+	6C94E3A6127F99EC004FDAA3 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Control reaches end of non-void function";
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 26;
+		rType = 1;
+	};
+	6C94E3A7127F99EC004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 25";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 368;
+		vrLoc = 247;
+	};
+	6C94E3A9127F9BC6004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E303127ED4EB004FDAA3 /* ChangePasswordController.h */;
+		name = "ChangePasswordController.h: 25";
+		rLen = 0;
+		rLoc = 757;
+		rType = 0;
+		vrLen = 884;
+		vrLoc = 3;
+	};
+	6C94E3AA127F9BC6004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 44";
+		rLen = 0;
+		rLoc = 1156;
+		rType = 0;
+		vrLen = 718;
+		vrLoc = 594;
+	};
+	6C94E3AB127F9BC6004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 49";
+		rLen = 0;
+		rLoc = 1249;
+		rType = 0;
+		vrLen = 730;
+		vrLoc = 590;
+	};
+	6C94E3AE127F9CBD004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 53";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 669;
+		vrLoc = 705;
+	};
+	6C94E3B2127F9D1F004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 55";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 705;
+	};
+	6C94E3B6127F9E52004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 27";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 247;
+	};
+	6C94E3B9127F9E58004FDAA3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+	};
+	6C94E3BA127F9E5A004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 55";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 705;
+	};
+	6C94E3BE127F9E5A004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 27";
+		rLen = 0;
+		rLoc = 727;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 0;
+	};
+	6C94E3C5127F9F00004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 58";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 705;
+	};
+	6C94E3C6127F9F00004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 56";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 1329;
+		vrLoc = 247;
+	};
+	6C94E3CC127F9FCE004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 59";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 705;
+	};
+	6C94E3CD127F9FCE004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 57";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 1269;
+		vrLoc = 329;
+	};
+	6C94E3D1127FA0F6004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 60";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 825;
+		vrLoc = 705;
+	};
+	6C94E3D2127FA0F6004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 58";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 1284;
+		vrLoc = 331;
+	};
+	6C94E3D4127FA116004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 60";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 759;
+		vrLoc = 529;
+	};
+	6C94E3D5127FA116004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 56";
+		rLen = 0;
+		rLoc = 1515;
+		rType = 0;
+		vrLen = 1293;
+		vrLoc = 331;
+	};
+	6C94E3E2127FA213004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 62";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 762;
+		vrLoc = 492;
+	};
+	6C94E3E3127FA213004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 57";
+		rLen = 0;
+		rLoc = 1805;
+		rType = 0;
+		vrLen = 1343;
+		vrLoc = 329;
+	};
+	6C94E411127FA542004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 79";
+		rLen = 0;
+		rLoc = 2100;
+		rType = 0;
+		vrLen = 858;
+		vrLoc = 331;
+	};
+	6C94E412127FA542004FDAA3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6C94E304127ED4EB004FDAA3 /* ChangePasswordController.m */;
+		name = "ChangePasswordController.m: 72";
+		rLen = 0;
+		rLoc = 2031;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 864;
+	};
+	8D1107260486CEB800E47090 /* Change Domain Password */ = {
+		activeExec = 0;
+		executables = (
+			6C94E2DD127ED2FA004FDAA3 /* Change Domain Password */,
+		);
+	};
+}

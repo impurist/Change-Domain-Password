@@ -1,0 +1,196 @@
+TChange Domain Password
+v7
+r0
+t310301449.990138
+cCheck dependencies
+cProcessInfoPlistFile "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Info.plist" Change_Domain_Password-Info.plist
+cCopyStringsFile "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileXIB "/Users/steven_holloway/innov2010/Change Domain Password/English.lproj/MainMenu.xib"
+cProcessPCH /var/folders/kI/kItgEm2-EZykbsCHgeVgMI3CP2A/-Caches-/com.apple.Xcode.1095658563/SharedPrecompiledHeaders/Change_Domain_Password_Prefix-bxtshoxjdamjqddnbtpwynbbkclb/Change_Domain_Password_Prefix.pch.gch Change_Domain_Password_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/main.o" "/Users/steven_holloway/innov2010/Change Domain Password/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/Change_Domain_PasswordAppDelegate.o" "/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_PasswordAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/MacOS/Change Domain Password" normal x86_64
+cTouch "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C886FB700000000000000EE
+t1284009911
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_PasswordAppDelegate.h
+c000000004CCE9B7A0000000000000167
+t1288608634
+s359
+i<Cocoa/Cocoa.h>
+
+N/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_PasswordAppDelegate.m
+c000000004CCE9B7A00000000000001AB
+t1288608634
+s427
+i"Change_Domain_PasswordAppDelegate.h"
+
+N/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_Password_Prefix.pch
+c000000004CCE9B7A00000000000000AF
+t1288608634
+s175
+i<Cocoa/Cocoa.h>
+
+N/Users/steven_holloway/innov2010/Change Domain Password/English.lproj/InfoPlist.strings
+c000000004CCE9B7A000000000000002D
+t1288608634
+s45
+
+N/Users/steven_holloway/innov2010/Change Domain Password/English.lproj/MainMenu.xib
+c000000004CCE9B7A000000000002BC10
+t1288608634
+s179216
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/Change Domain Password.LinkFileList
+c000000004CCE9B840000000000000153
+t1288608644
+s339
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/Change_Domain_PasswordAppDelegate.o
+t1288608648
+s21512
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/main.o
+t1288608648
+s5024
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app
+t1288608649
+s102
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Info.plist
+t1288608644
+s931
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/MacOS/Change Domain Password
+t1288608649
+s14888
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/PkgInfo
+t1288608644
+s8
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1288608644
+s92
+
+N/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Resources/English.lproj/MainMenu.nib
+t1288608644
+s34603
+
+N/Users/steven_holloway/innov2010/Change Domain Password/main.m
+c000000004CCE9B7A000000000000010B
+t1288608634
+s267
+i<Cocoa/Cocoa.h>
+
+N/var/folders/kI/kItgEm2-EZykbsCHgeVgMI3CP2A/-Caches-/com.apple.Xcode.1095658563/SharedPrecompiledHeaders/Change_Domain_Password_Prefix-bxtshoxjdamjqddnbtpwynbbkclb/Change_Domain_Password_Prefix.pch.gch
+t1288608648
+s54265616
+
+NChange_Domain_Password-Info.plist
+c000000004CCE9B7A00000000000003EA
+t1288608634
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310301444#310301444#0(0"0(0#1#0"8666945824#0"0#
+
+CCompileC "build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/Change_Domain_PasswordAppDelegate.o" "/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_PasswordAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310301448.632250
+e310301448.833556
+r1
+xCompileC
+xbuild/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/Change_Domain_PasswordAppDelegate.o
+x/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_PasswordAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_PasswordAppDelegate.m310301448#310301448#0(0"0(0#0#91"/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_PasswordAppDelegate.m8670657568#2024"    cd "/Users/steven_holloway/innov2010/Change Domain Password"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-generated-files.hmap" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-own-target-headers.hmap" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-all-target-headers.hmap" -iquote "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-project-headers.hmap" "-F/Users/steven_holloway/innov2010/Change Domain Password/build/Debug" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/include" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/DerivedSources/x86_64" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/DerivedSources" -include /var/folders/kI/kItgEm2-EZykbsCHgeVgMI3CP2A/-Caches-/com.apple.Xcode.1095658563/SharedPrecompiledHeaders/Change_Domain_Password_Prefix-bxtshoxjdamjqddnbtpwynbbkclb/Change_Domain_Password_Prefix.pch -c "/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_PasswordAppDelegate.m" -o "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/Change_Domain_PasswordAppDelegate.o"0#
+
+CCompileC "build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/main.o" "/Users/steven_holloway/innov2010/Change Domain Password/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310301448.630773
+e310301448.828301
+r1
+xCompileC
+xbuild/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/main.o
+x/Users/steven_holloway/innov2010/Change Domain Password/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/steven_holloway/innov2010/Change Domain Password/main.m310301448#310301448#0(0"0(0#0#62"/Users/steven_holloway/innov2010/Change Domain Password/main.m8647534976#1966"    cd "/Users/steven_holloway/innov2010/Change Domain Password"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-generated-files.hmap" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-own-target-headers.hmap" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-all-target-headers.hmap" -iquote "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-project-headers.hmap" "-F/Users/steven_holloway/innov2010/Change Domain Password/build/Debug" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/include" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/DerivedSources/x86_64" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/DerivedSources" -include /var/folders/kI/kItgEm2-EZykbsCHgeVgMI3CP2A/-Caches-/com.apple.Xcode.1095658563/SharedPrecompiledHeaders/Change_Domain_Password_Prefix-bxtshoxjdamjqddnbtpwynbbkclb/Change_Domain_Password_Prefix.pch -c "/Users/steven_holloway/innov2010/Change Domain Password/main.m" -o "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/main.o"0#
+
+CCompileXIB "/Users/steven_holloway/innov2010/Change Domain Password/English.lproj/MainMenu.xib"
+s310301444.743066
+e310301445.007754
+r1
+xCompileXIB
+x/Users/steven_holloway/innov2010/Change Domain Password/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib310301444#310301445#0(0"0(0#0#82"/Users/steven_holloway/innov2010/Change Domain Password/English.lproj/MainMenu.xib8670372512#436"    cd "/Users/steven_holloway/innov2010/Change Domain Password"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Resources/English.lproj/MainMenu.nib" "/Users/steven_holloway/innov2010/Change Domain Password/English.lproj/MainMenu.xib" --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s310301444.706091
+e310301444.830142
+r1
+xCopyStringsFile
+x/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings310301444#310301444#0(0"0(0#0#87"/Users/steven_holloway/innov2010/Change Domain Password/English.lproj/InfoPlist.strings8661040000#418"    cd "/Users/steven_holloway/innov2010/Change Domain Password"    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Resources/English.lproj"0#
+
+CLd "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/MacOS/Change Domain Password" normal x86_64
+s310301448.833685
+e310301449.987114
+r1
+xLd
+x/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/MacOS/Change Domain Password
+xnormal
+xx86_64
+lSLF07#2@137"Link /Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/MacOS/Change Domain Password310301448#310301449#0(0"0(0#0#0"8672546976#712"    cd "/Users/steven_holloway/innov2010/Change Domain Password"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/steven_holloway/innov2010/Change Domain Password/build/Debug" "-F/Users/steven_holloway/innov2010/Change Domain Password/build/Debug" -filelist "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Objects-normal/x86_64/Change Domain Password.LinkFileList" -mmacosx-version-min=10.6 -framework Cocoa -o "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/MacOS/Change Domain Password"0#
+
+CProcessInfoPlistFile "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Info.plist" Change_Domain_Password-Info.plist
+s310301444.702427
+e310301444.705991
+r1
+xProcessInfoPlistFile
+x/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Info.plist
+xChange_Domain_Password-Info.plist
+lSLF07#2@41"Process Change_Domain_Password-Info.plist310301444#310301444#0(0"0(0#0#89"/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_Password-Info.plist8662812640#412"    cd "/Users/steven_holloway/innov2010/Change Domain Password"    builtin-infoPlistUtility Change_Domain_Password-Info.plist -genpkginfo "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app/Contents/Info.plist"0#
+
+CProcessPCH /var/folders/kI/kItgEm2-EZykbsCHgeVgMI3CP2A/-Caches-/com.apple.Xcode.1095658563/SharedPrecompiledHeaders/Change_Domain_Password_Prefix-bxtshoxjdamjqddnbtpwynbbkclb/Change_Domain_Password_Prefix.pch.gch Change_Domain_Password_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s310301445.007886
+e310301448.630545
+r1
+xProcessPCH
+x/var/folders/kI/kItgEm2-EZykbsCHgeVgMI3CP2A/-Caches-/com.apple.Xcode.1095658563/SharedPrecompiledHeaders/Change_Domain_Password_Prefix-bxtshoxjdamjqddnbtpwynbbkclb/Change_Domain_Password_Prefix.pch.gch
+xChange_Domain_Password_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile Change_Domain_Password_Prefix.pch310301445#310301448#0(0"0(0#0#89"/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_Password_Prefix.pch8663261248#1838"    cd "/Users/steven_holloway/innov2010/Change Domain Password"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-generated-files.hmap" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-own-target-headers.hmap" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-all-target-headers.hmap" -iquote "/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/Change Domain Password-project-headers.hmap" "-F/Users/steven_holloway/innov2010/Change Domain Password/build/Debug" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/include" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/DerivedSources/x86_64" "-I/Users/steven_holloway/innov2010/Change Domain Password/build/Change Domain Password.build/Debug/Change Domain Password.build/DerivedSources" -c "/Users/steven_holloway/innov2010/Change Domain Password/Change_Domain_Password_Prefix.pch" -o /var/folders/kI/kItgEm2-EZykbsCHgeVgMI3CP2A/-Caches-/com.apple.Xcode.1095658563/SharedPrecompiledHeaders/Change_Domain_Password_Prefix-bxtshoxjdamjqddnbtpwynbbkclb/Change_Domain_Password_Prefix.pch.gch0#
+
+CTouch "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app"
+s310301449.987216
+e310301449.990102
+r1
+xTouch
+x/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app
+lSLF07#2@100"Touch /Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app310301449#310301449#0(0"0(0#0#0"8670610208#184"    cd "/Users/steven_holloway/innov2010/Change Domain Password"    /usr/bin/touch -c "/Users/steven_holloway/innov2010/Change Domain Password/build/Debug/Change Domain Password.app"0#
+
